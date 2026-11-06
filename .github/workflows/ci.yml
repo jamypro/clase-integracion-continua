@@ -2,7 +2,7 @@ name: validar HTML
 
 on:
   push:
-    branches: [main]
+    branches: [main, formulario]
   pull_request:
     branches: [main]
 
